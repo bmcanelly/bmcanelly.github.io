@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bmcanelly.github.io
+Token: a699729b6a810c7a6fe34f1e2b65d46246cc2ecee553c4978c977ae8fc2064f9
